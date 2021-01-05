@@ -1,13 +1,16 @@
-**chrdek/chrdek**
+<br/>
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=chrdek)
 <hr/>
 
-##  :compass:  Navigation table for some  repositories:
+##  :compass:  Main navigation table for repositories:
 * [Automated tests using apache groovy](#apache-groovy-test-automation-scripts)
 * [Vue paging component with axios](#vuejs-component)
-* [Archives from MS-technet](#older-ms-technet-scripts)
+* [Archives from MS-Technet](#older-ms-technet-scripts)
 <br/>
 
 <br/>
+
 Hello, welcome to my repo landing page.
 Main programming tools and languages I currently use are:
 
@@ -57,7 +60,7 @@ More details are found [here](https://github.com/chrdek/vuejs-imggallery)
 <br/>
 <br/>
 
-### Older MS technet Scripts
+### Older MS Technet Scripts
 <div>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5e2Gvd85l_nXOdvH5Hn2Yea8LxlrDmrUkoA&usqp=CAU" width="150px" align="center"/>
 </div>
