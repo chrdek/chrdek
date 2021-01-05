@@ -1,6 +1,8 @@
 <br/>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=chrdek&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=chrdek&show_icons=true) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrdek&langs_count=3)](https://github.com/chrdek/github-readme-stats)
+
  <br/>
 
 <hr/>
@@ -40,7 +42,7 @@ These scripts can either be used via batch files or from the tests IDE.
 More details on the repository can be found [here](https://github.com/chrdek/testr-scripts-snippets)
 
 
-
+&nbsp;&nbsp;&nbsp;
 <br/>
 <br/>
 <br/>
