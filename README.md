@@ -1,6 +1,6 @@
 <br/>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=chrdek)
+![Github stats](https://github-readme-stats.vercel.app/api?username=chrdek&show_icons=true)
  <br/>
 
 <hr/>
