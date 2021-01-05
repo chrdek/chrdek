@@ -1,13 +1,14 @@
+<p style="text-align:center">
 **chrdek/chrdek**
 <hr/>
-<center>
 
 ##  :compass:  Navigation table for some  repositories:
 * [Apache Groovy](#apache-groovy-test-automation-scripts)
 * [Vue paging component with axios](#vuejs-component)
-* [Archives from Ms-technet](#older-ms-technet-scripts)
-</center>
-
+* [Archives from MS-technet](#older-ms-technet-scripts)
+<br/>
+</p>
+<br/>
 Hello, welcome to my repo landing page.
 My main programming tools, languages I currently use are:
 
@@ -31,9 +32,11 @@ My main programming tools, languages I currently use are:
 <a name="apache-groovy-test-automation-scripts"></a>
 ### Apache Groovy test automation scripts
 A small collection of scripts that can be used with SoapUI's test runner to check and verify Json/Html output.
-This can be either use via batch files or from the tests IDE.
+These scripts can either be used via batch files or from the tests IDE.
 
 More details on the repository can be found [here](https://github.com/chrdek/testr-scripts-snippets)
+
+
 
 <br/>
 <br/>
