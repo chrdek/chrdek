@@ -5,7 +5,7 @@
 
 <hr/>
 
-##  :compass:  Main navigation table for repositories:
+##  :compass:  Navigate repositories from here:
 * [Automated tests using apache groovy](#apache-groovy-test-automation-scripts)
 * [Vue paging component with axios](#vuejs-component)
 * [Archives from MS-Technet](#older-ms-technet-scripts)
