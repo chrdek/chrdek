@@ -1,6 +1,8 @@
 <br/>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=chrdek)
+ <br/>
+
 <hr/>
 
 ##  :compass:  Main navigation table for repositories:
