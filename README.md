@@ -28,7 +28,8 @@ My main programming tools, languages I currently use are:
 <img src="https://galilsoftware.com/wp-content/uploads/2013/09/testautomation.png" width="150px" align="center"/>  
 </div>
 <br/>
-# Apache Groovy test automation scripts
+<a name="apache-groovy-test-automation-scripts"></a>
+### Apache Groovy test automation scripts
 A small collection of scripts that can be used with SoapUI's test runner to check and verify Json/Html output.
 This can be either use via batch files or from the tests IDE.
 
@@ -43,6 +44,7 @@ More details on the repository can be found [here](https://github.com/chrdek/tes
 <img src="https://www.tullamoreshow.com/custom/public/images/.600.360.0.1.t/gallery-10.png" width="150px" align="center"/>
 </div>
 <br/>
+<a name="vuejs-component"></a>
 ### VueJS Component
 Side project that is under maintenance, a multi-part web component build with vuejs to display images.
 Sample images fetched via axios http and rendered through stack-grid with a paging component.
@@ -59,6 +61,7 @@ More details are found [here](https://github.com/chrdek/vuejs-imggallery)
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5e2Gvd85l_nXOdvH5Hn2Yea8LxlrDmrUkoA&usqp=CAU" width="150px" align="center"/>
 </div>
 <br/>
+<a name="older-ms-technet-scripts"></a>
 ### Older MS technet Scripts
 Archived set of all older powershell scripts on technet.
 
