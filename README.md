@@ -3,6 +3,8 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=chrdek&show_icons=true) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrdek&langs_count=3)](https://github-readme-stats.vercel.app/api/top-langs/?username=chrdek&langs_count=3)
 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchrdek%2Fhit-counter&count_bg=%2379C83D&title_bg=%236B9471&icon=git.svg&icon_color=%23F3F2DE&title=+views&edge_flat=true)
+
  <br/>
 
 <hr/>
@@ -35,7 +37,7 @@ Main programming tools and languages I currently use are:
 <img src="https://galilsoftware.com/wp-content/uploads/2013/09/testautomation.png" width="150px" align="center"/>  
 </div>
 <br/>
-<a name="apache-groovy-test-automation-scripts"></a>
+<a name="apache-groovy-test-automation-scripts"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 A small collection of scripts that can be used with SoapUI's test runner to check and verify Json/Html output.
 These scripts can either be used via batch files or from the tests IDE.
 
