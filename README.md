@@ -27,7 +27,7 @@ Main programming tools and languages I currently use are:
 | Framework | .NET/C# |
 | Web Design | Javascript/CSS3 |
 
-
+&nbsp;&nbsp;&nbsp;
 <br/>
 <br/>
 <br/>
@@ -37,7 +37,7 @@ Main programming tools and languages I currently use are:
 <img src="https://galilsoftware.com/wp-content/uploads/2013/09/testautomation.png" width="150px" align="center"/>  
 </div>
 <br/>
-<a name="apache-groovy-test-automation-scripts"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a name="apache-groovy-test-automation-scripts"></a>
 A small collection of scripts that can be used with SoapUI's test runner to check and verify Json/Html output.
 These scripts can either be used via batch files or from the tests IDE.
 
