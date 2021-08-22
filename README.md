@@ -8,7 +8,14 @@
 |  Contact  |  Status  |
 |:----------------------:|:----------------------|
 |[Discord](https://discord.gg/g2ybZRJmUQ) | ![Discord](https://img.shields.io/discord/875683209231351828?style=for-the-badge&logo=discord&logoColor=white) |
-|[E-Mail](mailto:123d91839d344ff23f@sample.net) | ![Custom badge](https://img.shields.io/badge/style-e--mail-red?style=for-the-badge&logo=gmail&logoColor=white&label=send) |
+|[E-Mail](mailto:chris.it@itmaildom.awsapps.com) | ![Custom badge](https://img.shields.io/badge/style-e--mail-green?style=for-the-badge&logo=gmail&logoColor=white&label=send) |
+<br/>
+<br/>
+
+|  Send |  Address  |
+|:----------------------:|:----------------------|
+|An ebook here<br/> __***Or...***__| [![](https://res.cloudinary.com/dmjcetjt8/image/upload/v1629630176/mega_ul_ebook_zoqtsw.png)](https://mega.nz/drop#!0DQfTjKuBec!l!en) |
+|Crypto here| [![](https://img.shields.io/badge/gridcoin-green?style=for-the-badge&logo=bitcoin&logoColor=white&label=GRC)](https://res.cloudinary.com/dmjcetjt8/image/upload/v1629632492/QR_codeGRCwallet_dmetvz.png) |
  <br/>
 
 <hr/>
