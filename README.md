@@ -5,17 +5,21 @@
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchrdek%2Fhit-counter&count_bg=%2379C83D&title_bg=%236B9471&icon=git.svg&icon_color=%23F3F2DE&title=+views&edge_flat=true)
 
-|  Contact  |  Status  |
-|:----------------------:|:----------------------|
-|[Discord](https://discord.gg/g2ybZRJmUQ) | ![Discord](https://img.shields.io/discord/875683209231351828?style=for-the-badge&logo=discord&logoColor=white) |
-|[E-Mail](mailto:chris.it@itmaildom.awsapps.com) | ![Custom badge](https://img.shields.io/badge/style-e--mail-green?style=for-the-badge&logo=gmail&logoColor=white&label=send) |
-<br/>
+
+<br/><br/>
+
+|  Contact  |  Status  |  Send  |  Address  |
+|:----------------------|:----------------------|:----------------------|:----------------------|
+|[Discord](https://discord.gg/g2ybZRJmUQ) | ![Discord](https://img.shields.io/discord/875683209231351828?style=for-the-badge&logo=discord&logoColor=white)|An ebook here<br/> __***Or...***__| [![](https://res.cloudinary.com/dmjcetjt8/image/upload/v1629630176/mega_ul_ebook_zoqtsw.png)](https://mega.nz/drop#!0DQfTjKuBec!l!en) |
+|[E-Mail](mailto:chris.it@itmaildom.awsapps.com) | ![](https://img.shields.io/badge/style-e--mail-green?style=for-the-badge&logo=gmail&logoColor=white&label=send)|Crypto here| [![](https://img.shields.io/badge/gridcoin-green?style=for-the-badge&logo=bitcoin&logoColor=white&label=GRC)](https://res.cloudinary.com/dmjcetjt8/image/upload/v1629632492/QR_codeGRCwallet_dmetvz.png) |
+
 <br/>
 
+<!--
 |  Send |  Address  |
-|:----------------------:|:----------------------|
+|:----------------------|:----------------------|
 |An ebook here<br/> __***Or...***__| [![](https://res.cloudinary.com/dmjcetjt8/image/upload/v1629630176/mega_ul_ebook_zoqtsw.png)](https://mega.nz/drop#!0DQfTjKuBec!l!en) |
-|Crypto here| [![](https://img.shields.io/badge/gridcoin-green?style=for-the-badge&logo=bitcoin&logoColor=white&label=GRC)](https://res.cloudinary.com/dmjcetjt8/image/upload/v1629632492/QR_codeGRCwallet_dmetvz.png) |
+|Crypto here| [![](https://img.shields.io/badge/gridcoin-green?style=for-the-badge&logo=bitcoin&logoColor=white&label=GRC)](https://res.cloudinary.com/dmjcetjt8/image/upload/v1629632492/QR_codeGRCwallet_dmetvz.png) |-->
  <br/>
 
 <hr/>
