@@ -8,7 +8,7 @@
 |  Contact  |  Status  |
 |:----------------------:|:----------------------|
 |[Discord](https://discord.gg/g2ybZRJmUQ) | ![Discord](https://img.shields.io/discord/875683209231351828?style=for-the-badge&logo=discord&logoColor=white) |
-|[E-Mail](mailto:123d91839d344ff23f@sample.net) | ![Custom badge](https://img.shields.io/badge/style-e--mail-green?style=for-the-badge&logo=gmail&logoColor=white&label=send) |
+|[E-Mail](mailto:123d91839d344ff23f@sample.net) | ![Custom badge](https://img.shields.io/badge/style-e--mail-red?style=for-the-badge&logo=gmail&logoColor=white&label=send) |
  <br/>
 
 <hr/>
