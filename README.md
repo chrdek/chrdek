@@ -11,7 +11,7 @@
 |  Contact  |  Status  |  Send  |  Address  |
 |:----------------------|:----------------------|:----------------------|:----------------------|
 |[Discord](https://discord.gg/g2ybZRJmUQ) | ![Discord](https://img.shields.io/discord/875683209231351828?style=for-the-badge&logo=discord&logoColor=white)|An ebook here<br/> __***Or...***__| [![](https://res.cloudinary.com/dmjcetjt8/image/upload/v1629630176/mega_ul_ebook_zoqtsw.png)](https://mega.nz/drop#!0DQfTjKuBec!l!en) |
-|[E-Mail](mailto:email@null.mail) | ![](https://img.shields.io/badge/style-e--mail-red?style=for-the-badge&logo=gmail&logoColor=white&label=send)|Crypto here| [![](https://img.shields.io/badge/gridcoin-green?style=for-the-badge&logo=bitcoin&logoColor=white&label=GRC)](https://res.cloudinary.com/dmjcetjt8/image/upload/v1629837640/QR_codeGRCwallet_dmetvz_ysttnb.png) |
+|[E-Mail](mailto:main_dev@zohomail.eu) | ![](https://img.shields.io/badge/style-e--mail-red?style=for-the-badge&logo=gmail&logoColor=white&label=send)|Crypto here| [![](https://img.shields.io/badge/gridcoin-green?style=for-the-badge&logo=bitcoin&logoColor=white&label=GRC)](https://res.cloudinary.com/dmjcetjt8/image/upload/v1629837640/QR_codeGRCwallet_dmetvz_ysttnb.png) |
 
 <br/>
 
