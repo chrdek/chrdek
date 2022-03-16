@@ -10,8 +10,8 @@
 
 |  Contact  |  Status  |  Send  |  Address  |
 |:----------------------|:----------------------|:----------------------|:----------------------|
-|[Discord](https://discord.gg/g2ybZRJmUQ) | ![Discord](https://img.shields.io/discord/875683209231351828?style=for-the-badge&logo=discord&logoColor=white)|An ebook here<br/> __***Or...***__| [![](https://res.cloudinary.com/dmjcetjt8/image/upload/v1629630176/mega_ul_ebook_zoqtsw.png)](https://mega.nz/drop#!s4S6GeDoXIg!l!en) |
-|[Secure E-Mail](mailto:dev_aik@pm.me?subject=Hey%20Fellow%20Developer&body=Check%20out%20my%20new%20cool%20project) | ![](https://img.shields.io/badge/style-e--mail-green?style=for-the-badge&logo=protonmail&logoColor=white&label=secure-send)|Crypto here| [![](https://img.shields.io/badge/wallet-green?style=for-the-badge&logo=ethereum&logoColor=white&label=ETH)](https://res.cloudinary.com/dmjcetjt8/image/upload/v1633771297/qr-eth_complete_ictmxm.png) |
+|[Discord](https://discord.gg/g2ybZRJmUQ) | ![Discord](https://img.shields.io/discord/875683209231351828?style=for-the-badge&logo=discord&logoColor=white&label=fast-chat)|An ebook here<br/> __***Or...***__| [![](https://res.cloudinary.com/dmjcetjt8/image/upload/v1629630176/mega_ul_ebook_zoqtsw.png)](https://mega.nz/drop#!s4S6GeDoXIg!l!en) |
+|[Secure E-Mail](mailto:dev_aik@pm.me?subject=Hey%20Fellow%20Developer&body=Check%20out%20my%20new%20cool%20project) | ![](https://img.shields.io/badge/style-e--mail-green?style=for-the-badge&logo=protonmail&logoColor=white&label=send-secure)|Crypto here| [![](https://img.shields.io/badge/wallet-green?style=for-the-badge&logo=ethereum&logoColor=white&label=ETH)](https://res.cloudinary.com/dmjcetjt8/image/upload/v1633771297/qr-eth_complete_ictmxm.png) |
 |[E-Mail](mailto:chrdevk1@outlook.com?subject=Hey%20Fellow%20Developer&body=Check%20out%20my%20new%20cool%20project) | [![](https://img.shields.io/badge/style-e--mail-green?style=for-the-badge&logo=microsoft&logoColor=white&label=send)](https://login.live.com/login.srf)
 <br/>
 
