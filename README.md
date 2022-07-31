@@ -24,6 +24,7 @@
 |[E-Mail](mailto:chrdevk1@outlook.com?subject=Hey%20Fellow%20Developer&body=Check%20out%20my%20new%20cool%20project) | [![](https://img.shields.io/badge/style-e--mail-green?style=for-the-badge&logo=microsoft&logoColor=white&label=send-other)](https://login.live.com/login.srf) | <img src="https://res.cloudinary.com/dmjcetjt8/image/upload/v1647723727/devto/resized_logo_UQww2soKuUsjaOGNB38o.png" style="height:30px;width:40px;" />&nbsp;&nbsp;<b>.to badges</b> | <a href="https://dev.to/badge/hacktoberfest-2021"><img src="https://res.cloudinary.com/dmjcetjt8/image/upload/v1647723361/devto/hacktoberfest-2021-badge.png" style="height:55px;width:55px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://dev.to/badge/one-year-club"><img src="https://res.cloudinary.com/dmjcetjt8/image/upload/v1647723333/devto/1-year-badge.png" style="height:55px;width:55px" /></a> |  <img src="https://raw.githubusercontent.com/chrdek/chrdek/main/vim.png" style="height:55px;width:55px" title="vim editor" /> &nbsp;&nbsp;&nbsp;
 <br/>
 
+<!--
 <details>
  <summary align="center">
 <a href="https://res.cloudinary.com/dmjcetjt8/image/upload/v1633771297/qr-eth_complete_ictmxm.png" rel="nofollow">
@@ -35,7 +36,7 @@
  <p><a href="https://res.cloudinary.com/dmjcetjt8/image/upload/v1659280907/eth.io_qr_s4xzg7.png">Wallet QR</a></p>
  </div>
 </details>
-
+-->
 
 <!--
 |  Send |  Address  |
