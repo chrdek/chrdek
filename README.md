@@ -6,14 +6,35 @@
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchrdek%2Fhit-counter&count_bg=%2379C83D&title_bg=%236B9471&icon=git.svg&icon_color=%23F3F2DE&title=+views&edge_flat=true)
 
 
+
+<!--
+[![](https://img.shields.io/badge/wallet-green?style=for-the-badge&logo=ethereum&logoColor=white&label=ETHEREUM)](https://res.cloudinary.com/dmjcetjt8/image/upload/v1659280907/eth.io_qr_s4xzg7.png)
+-->
+
+<br>
+
+
+
 <br/><br/>
 
 |  Contact  |  Status  |  Send  |  Address  |  Code Editors  |
 |:----------------------|:----------------------:|:----------------------|:----------------------:|:----------------------:|
 |[Discord](https://discord.gg/g2ybZRJmUQ) | ![Discord](https://img.shields.io/discord/875683209231351828?style=for-the-badge&logo=discord&logoColor=white&label=fast-chat)|An ebook here<br/> __***Or...***__| [![](https://res.cloudinary.com/dmjcetjt8/image/upload/v1629630176/mega_ul_ebook_zoqtsw.png)](https://mega.nz/drop#!s4S6GeDoXIg!l!en) | <img src="https://raw.githubusercontent.com/chrdek/chrdek/main/vs17.png" style="height:55px;width=55px" title="visual studio '17" />&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/chrdek/chrdek/main/vscode.png" style="height:55px;width:55px"  title="visual studio code" data-toggle="tooltip" data-placement="top" /> |
-|[Secure E-Mail](mailto:dev_aik@pm.me?subject=Hey%20Fellow%20Developer&body=Check%20out%20my%20new%20cool%20project) | ![](https://img.shields.io/badge/style-e--mail-green?style=for-the-badge&logo=protonmail&logoColor=white&label=send-secure)|Crypto here| [![](https://img.shields.io/badge/wallet-green?style=for-the-badge&logo=ethereum&logoColor=white&label=ETHEREUM)](https://res.cloudinary.com/dmjcetjt8/image/upload/v1633771297/qr-eth_complete_ictmxm.png) | <img src="https://raw.githubusercontent.com/chrdek/chrdek/main/sub_text1.png" style="height:55px;width=55px" title="sublime text" />&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/chrdek/chrdek/main/npp%2B.png" style="height:55px;width:55px"  title="notepad++"/>&nbsp;&nbsp;&nbsp;
+|[Secure E-Mail](mailto:dev_aik@pm.me?subject=Hey%20Fellow%20Developer&body=Check%20out%20my%20new%20cool%20project) | ![](https://img.shields.io/badge/style-e--mail-green?style=for-the-badge&logo=protonmail&logoColor=white&label=send-secure)|Crypto here| [![](https://img.shields.io/badge/ETH-QR-green?style=for-the-badge&logo=ethereum&logoColor=white&label=ETHEREUM)](https://res.cloudinary.com/dmjcetjt8/image/upload/v1659280907/eth.io_qr_s4xzg7.png) | <img src="https://raw.githubusercontent.com/chrdek/chrdek/main/sub_text1.png" style="height:55px;width=55px" title="sublime text" />&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/chrdek/chrdek/main/npp%2B.png" style="height:55px;width:55px" title="notepad++"/>&nbsp;&nbsp;&nbsp;
 |[E-Mail](mailto:chrdevk1@outlook.com?subject=Hey%20Fellow%20Developer&body=Check%20out%20my%20new%20cool%20project) | [![](https://img.shields.io/badge/style-e--mail-green?style=for-the-badge&logo=microsoft&logoColor=white&label=send-other)](https://login.live.com/login.srf) | <img src="https://res.cloudinary.com/dmjcetjt8/image/upload/v1647723727/devto/resized_logo_UQww2soKuUsjaOGNB38o.png" style="height:30px;width:40px;" />&nbsp;&nbsp;<b>.to badges</b> | <a href="https://dev.to/badge/hacktoberfest-2021"><img src="https://res.cloudinary.com/dmjcetjt8/image/upload/v1647723361/devto/hacktoberfest-2021-badge.png" style="height:55px;width:55px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://dev.to/badge/one-year-club"><img src="https://res.cloudinary.com/dmjcetjt8/image/upload/v1647723333/devto/1-year-badge.png" style="height:55px;width:55px" /></a> |  <img src="https://raw.githubusercontent.com/chrdek/chrdek/main/vim.png" style="height:55px;width:55px" title="vim editor" /> &nbsp;&nbsp;&nbsp;
 <br/>
+
+<details>
+ <summary align="center">
+<a href="https://res.cloudinary.com/dmjcetjt8/image/upload/v1633771297/qr-eth_complete_ictmxm.png" rel="nofollow">
+ <img src="https://camo.githubusercontent.com/6599ccf4f63e3038d86d0d42773946731a4c0eca95d1ab65bdbca7a21a01000b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f77616c6c65742d677265656e3f7374796c653d666f722d7468652d6261646765266c6f676f3d657468657265756d266c6f676f436f6c6f723d7768697465266c6162656c3d455448455245554d" alt="" data-canonical-src="https://img.shields.io/badge/wallet-green?style=for-the-badge&amp;logo=ethereum&amp;logoColor=white&amp;label=ETHEREUM" style="max-width: 100%;">
+</a>
+ </summary>
+ <div align="center">
+ <p>0x7c1BBA06b4aE31fFf5856B8402d0bdB16c5388ED</p>
+ <p><a href="https://res.cloudinary.com/dmjcetjt8/image/upload/v1659280907/eth.io_qr_s4xzg7.png">Wallet QR</a></p>
+ </div>
+</details>
 
 
 <!--
