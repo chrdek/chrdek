@@ -31,7 +31,7 @@
 </a>
  </summary>
  <div align="center">
- <p>0x7c1BBA06b4aE31fFf5856B8402d0bdB16c5388ED</p>
+ <p></p>
  <p><a href="https://res.cloudinary.com/dmjcetjt8/image/upload/v1659280907/eth.io_qr_s4xzg7.png">Wallet QR</a></p>
  </div>
 </details>
