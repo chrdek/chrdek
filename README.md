@@ -13,7 +13,8 @@
  ![Profile views](https://gpvc.arturio.dev/chrdek)
  -->
  
- 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="http://s11.flagcounter.com/more/qRG"><img src="https://s11.flagcounter.com/count2/qRG/bg_FFFFFF/txt_383838/border_9795CC/columns_7/maxflags_12/viewers_Profile+Views/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 
 <!--
