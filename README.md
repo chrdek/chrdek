@@ -98,9 +98,9 @@ More details on the repository can be found [here](https://github.com/chrdek/tes
 <br/>
 <br/>
 
-### VueJS Component
+### VueJS Image Gallery Component
 <div>
-<img src="https://www.tullamoreshow.com/custom/public/images/.600.360.0.1.t/gallery-10.png" width="150px" align="center"/>
+<img src="https://www.pngall.com/wp-content/uploads/7/Gallery-PNG.png" width="150px" align="center"/>
 </div>
 <br/>
 <a name="vuejs-component"></a>
