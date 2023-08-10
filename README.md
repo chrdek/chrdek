@@ -4,7 +4,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrdek&langs_count=3)](https://github-readme-stats.vercel.app/api/top-langs/?username=chrdek&langs_count=3)
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ ![](https://komarev.com/ghpvc/?username=chrdek&label=Profile%20views&color=0e75b6&style=flat)
+ <!--- temp removed:
  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchrdek%2Fhit-counter&count_bg=%2379C83D&title_bg=%236B9471&icon=git.svg&icon_color=%23F3F2DE&title=+views&edge_flat=true)
+-->
  
  <!-- n/a
  ![Profile Views](https://visitor-badge.glitch.me/badge?page_id=chrdek.visitor-badge&left_color=grey&right_color=green&left_text=Views)
