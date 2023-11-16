@@ -68,7 +68,7 @@
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
  <div style="text-align: center;">
-<details align="center">
+<details>
  
  [1](https://mega.nz/file/YQpERSAa "tIcOOluQqSvkaFnKpToaCuXgOyS9mZYTvagAkqikoT8") &nbsp;&nbsp;&nbsp;
  [2](https://mega.nz/file/JBgkQabJ "7TamWa_rcHetXmjvmrAFdKzidU1FnA9ZCP5vpjMld4I") &nbsp;&nbsp;&nbsp;
@@ -81,6 +81,7 @@
  </summary>
 </details>
 </div>
+
 <!--
 <details>
  <summary align="center">
