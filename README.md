@@ -59,6 +59,8 @@
 <br>
 <br>
 
+&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+
 <div align="center">
  <strong>A collection of 6 ebooks that I find interesting (Download links below).</strong>
 </div>
@@ -66,6 +68,7 @@
 <br>
 <br>
 
+&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
 
 <details align="center">
