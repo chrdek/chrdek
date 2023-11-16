@@ -55,6 +55,29 @@
 <a href="https://github.com/chrdek?tab=repositories&q=web3&type=public&language=&sort=">
  <img src="https://res.cloudinary.com/dmjcetjt8/image/upload/v1676937878/gTGKlCYA1b_v4jnod.gif" style="height:80px;width:200px" title="newfeat"/>
  </a>
+ 
+<br>
+<br>
+
+<div align="center">
+ <strong>A collection of 6 ebooks that I find interesting (Download links below).</strong>
+</div>
+
+<br>
+<br>
+
+<details align="center">
+ 
+ [1](https://mega.nz/file/YQpERSAa "tIcOOluQqSvkaFnKpToaCuXgOyS9mZYTvagAkqikoT8") &nbsp;&nbsp;&nbsp;
+ [2](https://mega.nz/file/JBgkQabJ "7TamWa_rcHetXmjvmrAFdKzidU1FnA9ZCP5vpjMld4I") &nbsp;&nbsp;&nbsp;
+ [3](https://mega.nz/file/xM5gzCxR "Auq0vw8Wx5wulJk1okI7KBD0j5zLmVa2FsXu2VPzv08") &nbsp;&nbsp;&nbsp;
+ [4](https://mega.nz/file/Fc4QjQoA "SxN4Mlrq4uzGLOF4LfEB-IUMED147inoBCeKQHIMMB0") &nbsp;&nbsp;&nbsp;
+ [5](https://mega.nz/file/QIwQQaaa "4bOWBkezWXlWjqTGOT16Hx2kLbywmOn6nugGzGwpSw8") &nbsp;&nbsp;&nbsp;
+ [6](https://mega.nz/file/AUgy3SJS "Ylf1XpXMssj22MWYxcgRaN2XKbSZigOjrA78oR0Kop4") &nbsp;&nbsp;
+<summary align="center">
+<img src="https://res.cloudinary.com/dmjcetjt8/image/upload/v1700095313/bookNum_xvspdy.png" style="height:70px;width:175px" title="E-BookShelf Click a link to download."/>
+ </summary>
+</details>
 
 <!--
 <details>
