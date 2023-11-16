@@ -59,9 +59,7 @@
 <br>
 <br>
 
-&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
-
-<div align="center">
+<div align="center" style="margin-left:4.2%">
  <strong>A collection of 6 ebooks that I find interesting (Download links below).</strong>
 </div>
 
@@ -71,6 +69,7 @@
 &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
 
+ <div style="text-align: center;">
 <details align="center">
  
  [1](https://mega.nz/file/YQpERSAa "tIcOOluQqSvkaFnKpToaCuXgOyS9mZYTvagAkqikoT8") &nbsp;&nbsp;&nbsp;
@@ -79,11 +78,11 @@
  [4](https://mega.nz/file/Fc4QjQoA "SxN4Mlrq4uzGLOF4LfEB-IUMED147inoBCeKQHIMMB0") &nbsp;&nbsp;&nbsp;
  [5](https://mega.nz/file/QIwQQaaa "4bOWBkezWXlWjqTGOT16Hx2kLbywmOn6nugGzGwpSw8") &nbsp;&nbsp;&nbsp;
  [6](https://mega.nz/file/AUgy3SJS "Ylf1XpXMssj22MWYxcgRaN2XKbSZigOjrA78oR0Kop4") &nbsp;&nbsp;
-<summary align="center">
+<summary>
 <img src="https://res.cloudinary.com/dmjcetjt8/image/upload/v1700095313/bookNum_xvspdy.png" style="height:70px;width:175px" title="E-BookShelf Click a link to download."/>
  </summary>
 </details>
-
+</div>
 <!--
 <details>
  <summary align="center">
