@@ -53,7 +53,7 @@
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/chrdek?tab=repositories&q=web3&type=public&language=&sort=">
- <img src="https://res.cloudinary.com/dmjcetjt8/image/upload/v1676937878/gTGKlCYA1b_v4jnod.gif" style="height:80px;width:195px" title="newfeat"/>
+ <img src="https://res.cloudinary.com/dmjcetjt8/image/upload/v1676937878/gTGKlCYA1b_v4jnod.gif" style="height:80px;width:215px" title="newfeat"/>
  </a>
  
 <br>
