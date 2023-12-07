@@ -32,7 +32,7 @@
 [![](https://img.shields.io/badge/wallet-green?style=for-the-badge&logo=ethereum&logoColor=white&label=ETHEREUM)](https://res.cloudinary.com/dmjcetjt8/image/upload/v1659280907/eth.io_qr_s4xzg7.png)
 -->
 
-<br>
+<br/>
 
 
 
@@ -112,7 +112,7 @@
 
 <hr/>
 
-##  :compass:  Navigate repositories from here:
+##  🧭  Navigate repositories from here:
 * [Automated tests using apache groovy](#apache-groovy-test-automation-scripts)
 * [Vue paging component with axios](#vuejs-component)
 * [Archives from MS-Technet](#older-ms-technet-scripts)
