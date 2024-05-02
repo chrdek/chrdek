@@ -110,7 +110,7 @@
 
 <hr/>
 
-##  🧭  Navigate repositories from here:
+##  🧭  [Navigate repositories from here:](https://github.com/chrdek#compass--navigate-repositories-from-here)
 * [Automated tests using apache groovy](#apache-groovy-test-automation-scripts)
 * [Vue paging component with axios](#vuejs-component)
 * [Archives from MS-Technet](#older-ms-technet-scripts)
