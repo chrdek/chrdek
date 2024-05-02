@@ -175,4 +175,4 @@ More details are found [here](https://github.com/chrdek/vuejs-imggallery)  <br/>
 <a name="older-ms-technet-scripts"></a>
 Archived set of all older powershell scripts on technet.
 
-The full archived repository is found [here](https://github.com/chrdek/techn_contr)  <br/>&nbsp;[:arrow_up: Back to top](https://github.com/chrdek#compass--navigate-repositories-from-here)
+The full archived repository is found [here](https://github.com/chrdek/techn_contr)  <br/>&nbsp;[:arrow_up: Back to top](https://github.com/chrdek#--navigate-repositories-from-here)
