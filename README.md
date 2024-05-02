@@ -110,7 +110,7 @@
 
 <hr/>
 
-##  🧭  [Navigate repositories from here:](https://github.com/chrdek#compass--navigate-repositories-from-here)
+## 🧭  Navigate repositories from here:
 * [Automated tests using apache groovy](#apache-groovy-test-automation-scripts)
 * [Vue paging component with axios](#vuejs-component)
 * [Archives from MS-Technet](#older-ms-technet-scripts)
@@ -142,7 +142,7 @@ Main programming tools and languages I currently use are:
 A small collection of scripts that can be used with SoapUI's test runner to check and verify Json/Html output.
 These scripts can either be used via batch files or from the tests IDE.
 
-More details on the repository can be found [here](https://github.com/chrdek/testr-scripts-snippets)  <br/>&nbsp;[:arrow_up: Back to top](https://github.com/chrdek#compass--navigate-repositories-from-here)
+More details on the repository can be found [here](https://github.com/chrdek/testr-scripts-snippets)  <br/>&nbsp;[:arrow_up: Back to top](https://github.com/chrdek#--navigate-repositories-from-here)
 
 
 &nbsp;&nbsp;&nbsp;
@@ -159,7 +159,7 @@ More details on the repository can be found [here](https://github.com/chrdek/tes
 Side project that is under maintenance, a multi-part web component build with vuejs to display images.
 Sample images fetched via axios http and rendered through stack-grid with a paging component.
 
-More details are found [here](https://github.com/chrdek/vuejs-imggallery)  <br/>&nbsp; [:arrow_up: Back to top](https://github.com/chrdek#compass--navigate-repositories-from-here)
+More details are found [here](https://github.com/chrdek/vuejs-imggallery)  <br/>&nbsp; [:arrow_up: Back to top](https://github.com/chrdek#--navigate-repositories-from-here)
 
 
 
