@@ -34,7 +34,12 @@
 
 <br/>
 
+<div align="center">
 
+ 
+ [![Github.io Site](https://res.cloudinary.com/dmjcetjt8/image/upload/v1728901920/git_logo_fgd4xg.png)](https://chrdek.github.io)
+ 
+</div>
 
 <br/><br/>
 
